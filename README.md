@@ -1,4 +1,4 @@
-# ToDo App with <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20">
+# ToDo App with <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40">
 
 This repository contains a Node.js application. Follow the instructions below to set up and run the app on your local machine.
 
