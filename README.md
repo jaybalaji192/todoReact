@@ -14,4 +14,4 @@ This repository contains a Node.js application. Follow the instructions below to
 
 ## Run
 
-enter "npm start" in the terminal
+- Enter "npm start" in the terminal
